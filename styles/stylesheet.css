@@ -12,3 +12,11 @@ body
 {
     font-family: "Montserrat";
 }
+p
+{
+    color: lightslategray;
+}
+h1
+{
+    color: black;
+}

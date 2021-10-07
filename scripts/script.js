@@ -3,7 +3,7 @@
     Date: 07:10-2021
     Version: 0.2
 */
-// Geboorte datum
+// Berekent vanaf het jaar 2000 (geboorte jaar) de jaartelling 
 var bornYear = 2000;
 var d = new Date();
 var n = d.getFullYear();
@@ -18,6 +18,6 @@ function getAge(year)
 var calulatedAge = getAge(bornYear);
 
 
-console.log(calulatedAge);
+console.log("Leeftijd: " + calulatedAge);
 document.getElementById("year_age").innerHTML = calulatedAge;
-//document.getElementById("year_age").innerHTML = "hallo";
+
