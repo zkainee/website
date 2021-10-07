@@ -1,0 +1,14 @@
+/*
+    Author: Kaine van Ommeren
+    Date: 07:10-2021
+    Version: 0.2
+*/
+@font-face 
+{
+    font-family: "Montserrat";
+    src: url("../fonts/Montserrat-Regular.ttf");
+}
+body
+{
+    font-family: "Montserrat";
+}
