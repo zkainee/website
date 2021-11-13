@@ -10,7 +10,7 @@
 }
 body
 {
-    font-family: "Montserrat";
+    font-family: "Montserrat", serif;
 }
 p
 {
@@ -19,4 +19,8 @@ p
 h1
 {
     color: black;
+}
+#information
+{
+    text-align: center;
 }
